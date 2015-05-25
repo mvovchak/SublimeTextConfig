@@ -1,0 +1,6 @@
+{
+	"psr1_and_2":false,
+	"php_bin":"/usr//bin/php",
+	"debug": true,
+	"indent_with_space":false
+}

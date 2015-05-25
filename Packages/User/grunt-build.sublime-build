@@ -1,0 +1,5 @@
+{
+	"cmd": ["grunt build-dev", "--no-color"],
+	"path": "/usr/local/bin",
+	"working_dir": "~/Projects/teesnap/teesnap-portal/js-src/admin-portal"
+}

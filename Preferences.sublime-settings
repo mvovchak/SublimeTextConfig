@@ -1,0 +1,8 @@
+{
+	"color_scheme": "Packages/User/SublimeLinter/amCoder (SL).tmTheme",
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"theme": "amCoder.sublime-theme"
+}

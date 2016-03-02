@@ -1,0 +1,20 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Babel",
+		"BracketHighlighter",
+		"ColorPicker",
+		"Emmet",
+		"Package Control",
+		"Sass",
+		"Seti_UI",
+		"SideBarEnhancements",
+		"SublimeLinter",
+		"SublimeLinter-jshint",
+		"Theme - amCoder"
+	]
+}

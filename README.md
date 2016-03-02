@@ -1,3 +1,3 @@
 # SublimeTextConfig
 
-Sublime 3 Preferences (MACOS)
+Sublime 3 Preferences (OSX)
